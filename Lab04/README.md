@@ -1,4 +1,4 @@
-# LAB-04
+# LAB 04
 Laboratório 04 | Programação II - UFCG
 
 Conceitos utilizados.
