@@ -1,4 +1,4 @@
-# Lab-05
+# Lab 05
 Laboratório 05 | Programação II - UFCG 2018.1
 
 Conceitos utilizados.
