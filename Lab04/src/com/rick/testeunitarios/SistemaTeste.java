@@ -137,6 +137,6 @@ public class SistemaTeste {
 	 */
 	@Test
 	public void testRegistraParticipacaoErro() {
-		assertEquals(this.sistema.registraParticipacao("1234"), "Aluno não cadastrado.\n");
+		assertEquals(this.sistema.registraParticipacao("1234"), "Aluno nao cadastrado.\n");
 	}
 }
