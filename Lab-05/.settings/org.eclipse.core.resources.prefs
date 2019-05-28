@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/com/rick/controllers/CenarioController.java=UTF-8
+encoding//src/com/rick/models/Aposta.java=UTF-8
+encoding//src/com/rick/models/Cenario.java=UTF-8
+encoding//src/com/rick/models/Seguro.java=UTF-8
+encoding//src/com/rick/sistema/Facade.java=UTF-8
+encoding//src/com/rick/sistema/model/Aposta.java=UTF-8
+encoding//src/com/rick/sistema/model/Cenario.java=UTF-8
+encoding//src/com/rick/testesunitarios/ApostadorTeste.java=UTF-8
+encoding//src/com/rick/testesunitarios/CenarioControllerTeste.java=UTF-8
+encoding//src/com/rick/testesunitarios/CenarioTeste.java=UTF-8
+encoding/<project>=UTF-8
+encoding/README.md=UTF-8
